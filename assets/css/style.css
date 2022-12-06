@@ -5,11 +5,12 @@ body {
 	color: #750202;
 	background-color: rgb(255, 255, 255);
 }
+
 .container {
 	padding: 30px;
 	display: flex;
 	align-items: center;
-    justify-content: center;
+        justify-content: center;
 	background-color: #010219;
   }
 
@@ -21,15 +22,11 @@ body {
 	border: solid 20px;   
 	color: #374a5d;
 }
-
-.my-photo{
-
-
-}
  
 h1{
 	padding: 20px;
 }
+
 .body-1 {
 	padding: 20px;
 	color: #1b204b;
