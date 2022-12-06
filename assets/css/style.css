@@ -5,11 +5,12 @@ body {
 	color: #73bbff;
 	background-color: rgb(255, 255, 255);
 }
+
 .container {
 	padding: 30px;
 	display: flex;
 	align-items: center;
-    justify-content: center;
+        justify-content: center;
 	background-color: #010219;
   }
 
@@ -25,6 +26,7 @@ body {
 h1{
 	padding: 20px;
 }
+
 .body-1 {
 	padding: 20px;
 	color: #010219;
