@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	text-align: center;
 	font-family: 'Arial';
-	color: #750202;
+	color: #73bbff;
 	background-color: rgb(255, 255, 255);
 }
 .container {
@@ -22,17 +22,12 @@ body {
 	color: #374a5d;
 }
 
-.my-photo{
-
-
-}
- 
 h1{
 	padding: 20px;
 }
 .body-1 {
 	padding: 20px;
-	color: #1b204b;
+	color: #010219;
 	background-color: #ffffff;
 }
 
