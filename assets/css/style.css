@@ -2,14 +2,31 @@ body {
 	margin: 0;
 	text-align: center;
 	font-family: 'Arial';
-	color: #020a75;
+	color: #750202;
 	background-color: rgb(255, 255, 255);
 }
+.container {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	background-color: #010219;
+  }
 
-.my-photo {
-	background-color: #111522;
-	padding: 20px;
+.circle2{
+	width: 250px;
+	height: 250px;
+	padding:10px;
+	border-radius: 50%;	
+	border: solid 20px;   
+	color: #374a5d;
 }
+
+.my-photo{
+
+
+}
+ 
 h1{
 	padding: 20px;
 }
