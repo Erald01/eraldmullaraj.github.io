@@ -8,10 +8,9 @@ body {
 
 .container {
 	padding-top: 30px;
-	 
 	display: flex;
 	align-items: center;
-        justify-content: center;
+    justify-content: center;
 	background-color: #010219;
   }
 
@@ -26,13 +25,43 @@ body {
 
 h1{
 	padding: 10px;
+	font-size: 40px;
+	font-family: 'Sacramento', cursive;
 	
 }
 
 .body-1 {
 	padding: 10px;
 	color: #fff;
-	background: linear-gradient(to top, #2a4dfc, #010219);
+	font-family: 'Montserrat', sans-serif;
+	background: linear-gradient(to top, #497ea6, #010219);
+}
+
+a {
+    color: #010219;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.copyright {
+	color: #fff;
+	margin: 5px;
+	font-size: 0.8rem;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.footer {
+    background-color: #497ea6;
+    padding: 10px 0 5px;
+	position: fixed;
+	width: 100%;
+    bottom: 0;
 }
 
 
