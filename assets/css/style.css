@@ -3,7 +3,7 @@ body {
 	text-align: center;
 	font-family: 'Arial';
 	color: #73bbff;
-	background-color: rgb(255, 255, 255);
+	background: linear-gradient(to top, #66be59, #2a4dfc);
 }
 
 .container {
@@ -25,12 +25,13 @@ body {
 
 h1{
 	padding: 20px;
+	
 }
 
 .body-1 {
 	padding: 20px;
-	color: #010219;
-	background-color: #ffffff;
+	color: #fff;
+	background: linear-gradient(to top, #2a4dfc, #010219);
 }
 
 
