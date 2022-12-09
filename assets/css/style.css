@@ -27,7 +27,10 @@ h1{
 	padding: 10px;
 	font-size: 40px;
 	font-family: 'Sacramento', cursive;
-	
+}
+
+h2{
+	text-align: center;
 }
 
 .body-1 {
@@ -36,6 +39,22 @@ h1{
 	font-family: 'Montserrat', sans-serif;
 	background: linear-gradient(to top, #497ea6, #010219);
 }
+
+.body-2 {
+	color: #497ea6;
+	width: 50%;
+	margin: 50px auto 50px auto;
+	text-align: left;
+	line-height: 2;
+  }
+
+.line {
+	margin: 30px auto;
+	width: 60%;
+	height: 2px;
+	background: linear-gradient(to right, transparent 50%, #fff 50%), linear-gradient(to right,#fff, #27445b, #fff);
+	background-size: 10px 1px, 100% 1px;
+  }
 
 a {
     color: #010219;
@@ -57,9 +76,8 @@ a:hover {
 }
 
 .footer {
-    background-color: #497ea6;
+	background: linear-gradient(#80bae7, #497ea6);
     padding: 10px 0 5px;
-	position: fixed;
 	width: 100%;
     bottom: 0;
 }
